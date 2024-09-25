@@ -1,7 +1,7 @@
 import React from 'react';
 import heroGif from '../assets/images/hero-image.gif'; // Adjust the path based on your project structure
 
-export default function HeroSection() {
+export default function Home() {
   return (
     <div className='hero-section'>
       <img src={heroGif} alt='Hero-image' className='hero-gif' />

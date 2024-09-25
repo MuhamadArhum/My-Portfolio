@@ -9,7 +9,7 @@ export default function Header() {
       </div>
 
       <div className='arrow-keys'>
-        <a href='Hero.js'>Home</a>
+        <a>Home</a>
         <a>About</a>
         <a>Services</a>
         <a>Workflow</a>
